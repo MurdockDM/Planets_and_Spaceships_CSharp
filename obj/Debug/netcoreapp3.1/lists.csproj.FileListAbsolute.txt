@@ -1,0 +1,12 @@
+/Users/dustinmurdock/workspace/CSharp/exercises/lists/bin/Debug/netcoreapp3.1/lists.deps.json
+/Users/dustinmurdock/workspace/CSharp/exercises/lists/bin/Debug/netcoreapp3.1/lists.runtimeconfig.json
+/Users/dustinmurdock/workspace/CSharp/exercises/lists/bin/Debug/netcoreapp3.1/lists.runtimeconfig.dev.json
+/Users/dustinmurdock/workspace/CSharp/exercises/lists/bin/Debug/netcoreapp3.1/lists.dll
+/Users/dustinmurdock/workspace/CSharp/exercises/lists/bin/Debug/netcoreapp3.1/lists.pdb
+/Users/dustinmurdock/workspace/CSharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.csprojAssemblyReference.cache
+/Users/dustinmurdock/workspace/CSharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.AssemblyInfoInputs.cache
+/Users/dustinmurdock/workspace/CSharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.AssemblyInfo.cs
+/Users/dustinmurdock/workspace/CSharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.csproj.CoreCompileInputs.cache
+/Users/dustinmurdock/workspace/CSharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.dll
+/Users/dustinmurdock/workspace/CSharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.pdb
+/Users/dustinmurdock/workspace/CSharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.genruntimeconfig.cache
